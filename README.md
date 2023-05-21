@@ -50,6 +50,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com]([https://{your-web-site-link}](https://willowy-yeot-604b29.netlify.app/))
+- Website [your-website.com](https://willowy-yeot-604b29.netlify.app/)
 - GitHub [@your-username](https://{github.com/salmafadlabdulrahman})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
